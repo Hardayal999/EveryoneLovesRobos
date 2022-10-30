@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EveryoneLovesRobos/static/css/main.14cba142.css",
+    "main.js": "/EveryoneLovesRobos/static/js/main.1388fcaf.js",
+    "static/js/787.37f47b00.chunk.js": "/EveryoneLovesRobos/static/js/787.37f47b00.chunk.js",
+    "index.html": "/EveryoneLovesRobos/index.html",
+    "main.14cba142.css.map": "/EveryoneLovesRobos/static/css/main.14cba142.css.map",
+    "main.1388fcaf.js.map": "/EveryoneLovesRobos/static/js/main.1388fcaf.js.map",
+    "787.37f47b00.chunk.js.map": "/EveryoneLovesRobos/static/js/787.37f47b00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14cba142.css",
+    "static/js/main.1388fcaf.js"
+  ]
+}
